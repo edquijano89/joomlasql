@@ -1,4 +1,4 @@
 CREATE DATABASE bdjoomla;
-CREATE USER 'nodo'@'localhost' IDENTIFIED BY '1q2w3e4r';
-GRANT ALL PRIVILEGES ON bdjoomla.* TO 'nodo'@'localhost' IDENTIFIED BY '1q2w3e4r' WITH GRANT OPTION;
+CREATE USER 'nodo'@'localhost' IDENTIFIED BY '*Qwer1234*';
+GRANT ALL PRIVILEGES ON bdjoomla.* TO 'nodo'@'localhost' IDENTIFIED BY '*Qwer1234*' WITH GRANT OPTION;
 FLUSH PRIVILEGES;
